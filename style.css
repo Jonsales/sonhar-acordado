@@ -1,0 +1,51 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #ffebdd;
+}
+
+.cover-image {
+   background-image: url('./assets/capa.jpg');
+   height: 300px; /* Ajuste a altura conforme necessário */
+   background-size: cover;
+   background-position: center;
+}
+
+
+.container {
+   background-color: white;
+}
+
+.header {
+   background-color: #721c24 !important;
+}
+
+h1, h2 {
+   font-weight: bold;
+}
+
+p, li {
+   font-size: 1rem;
+}
+
+footer {
+   background-color: white;
+   font-size: 0.8rem;
+}
+
+.title {
+   color: white !important;
+   font-weight: bold;
+   background-color: #dc3545 !important;
+}
+
+a {
+   color: #212529 !important;
+   text-decoration: none !important;
+}
+
+.idade {
+   font-weight: bold;
+   font-style: italic;
+   text-decoration: underline;
+   color: #dc3545 !important;
+}
